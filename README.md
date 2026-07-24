@@ -57,7 +57,7 @@ This project is an interactive **Power BI dashboard** developed to analyze HR re
 ![Recruitment Performance](screenshots/Recruitment_Performance.png.png)
 
 ### Recruitment Insights & Hiring Quality
-![Recruitment Insights](screenshots/Recruitment%20Insights%20%26%20Hiring%20Quality.png)
+![Recruitment Insights](screenshots/Recruitment Insights.png)
 
 ## 📂 Dataset
 
