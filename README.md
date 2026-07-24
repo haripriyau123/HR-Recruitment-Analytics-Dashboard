@@ -59,10 +59,12 @@ This project is an interactive **Power BI dashboard** developed to analyze HR re
 ### Recruitment Insights & Hiring Quality
 ![Recruitment Insights](screenshots/Recruitment%20Insights.png)
 
-## 📂 Dataset
+## 📁 Dataset
 
-- HR Recruitment Analytics Dataset
-- Source: Kaggle
+- **Dataset Name:** AI Fair Recruitment Analytics Dataset
+- **Source:** Kaggle
+- **Size:** 120,000+ Records
+- **Description:** Used to analyze recruitment processes, hiring trends, and candidate outcomes.
 
 ## ✨ Key Features
 
