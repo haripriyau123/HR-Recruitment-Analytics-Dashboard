@@ -79,3 +79,7 @@ This project is an interactive **Power BI dashboard** developed to analyze HR re
 ## 📌 Project Outcome
 
 This dashboard helps HR teams monitor recruitment performance, identify hiring trends, and make informed recruitment decisions using interactive visualizations.
+
+## Author
+
+Haripriya U
